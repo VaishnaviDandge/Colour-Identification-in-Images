@@ -14,14 +14,18 @@ This Streamlit app identifies dominant colors in an image using K-Means clusteri
 ● Fast & user-friendly Streamlit interface
 
 
+
 🛠️ Technologies Used
+
 
 ● Python (NumPy, OpenCV, Matplotlib, Scikit-Learn)
 
 ● Streamlit (for UI & visualization)
 
 
+
 📸 How It Works
+
 
 ⒈ Upload an image
 
@@ -30,6 +34,7 @@ This Streamlit app identifies dominant colors in an image using K-Means clusteri
 ⒊ View the extracted colors in a pie chart
 
 ⒋ Get results in seconds! 🚀
+
 
 
 🔧 Installation
